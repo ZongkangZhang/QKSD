@@ -7,7 +7,7 @@ These codes are accompanied to the following paper:
 These codes are written in Mathematica and have been tested in Mathematica 13. 
 
 ## Description
-
+The main scripts of this repository are:
 
 ## License
 This code is under the [MIT license](https://opensource.org/licenses/MIT).
